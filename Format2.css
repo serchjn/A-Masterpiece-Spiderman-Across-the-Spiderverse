@@ -1,0 +1,27 @@
+h1{
+background-color:#FF6666
+}
+ .picture {
+  float: left;
+  padding: 20px;
+  background-color: #FFFF99;
+  text-align: left;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  width:100%;
+  ;
+}
+.p1{
+background-color:powderblue;
+font-size: 20px;
+}
+.p2 {
+  float: right;
+  padding: 20px;
+  background-color: #99FF99;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  width: 54%;
+  font-family: verdana;
+  }
